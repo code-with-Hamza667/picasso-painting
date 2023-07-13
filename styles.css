@@ -3,7 +3,7 @@ body {
 }
 
 #back-wall {
-  background-color: #8b4513;
+  background-color: #8B4513;
   width: 100%;
   height: 60%;
   position: absolute;
@@ -13,14 +13,16 @@ body {
 }
 
 #offwhite-character {
-    width: 300px;
-    height: 550px;
-    background-color: ghostwhite;
-    position: absolute;
-    top: 20%;
-    left: 17.5%;
+  width: 300px;
+  height: 550px;
+  background-color: GhostWhite;
+  position: absolute;
+  top: 20%;
+  left: 17.5%;
 }
-/*Using an id selector, create a rule for the
- element with the id offwhite-character.
-  Give it a width of 300px, a height of 550px,
-   and a background-color of GhostWhite.*/
+
+#white-hat {
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
