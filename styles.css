@@ -16,6 +16,9 @@ body {
     width: 300px;
     height: 550px;
     background-color: ghostwhite;
+    position: absolute;
+    top: 20%;
+    left: 17.5%;
 }
 /*Using an id selector, create a rule for the
  element with the id offwhite-character.
